@@ -49,7 +49,7 @@ This project is created for **learning and portfolio purposes only**.
 
 ## 📷 Dashboard Preview
 
-![Dashboard](financials_dashboard.png)
+![Dashboard](financials%20dashboard.png)
 
 ---
 
