@@ -55,8 +55,8 @@ This project is created for **learning and portfolio purposes only**.
 
 ## 📁 Project Files
 
-* `Financials Dashboard.pbix` → Power BI file
-* `dashboard.png` → Dashboard preview image
+* `Financials%20Dashboard.zip → Power BI file
+* `financials%20dashboard.png` → Dashboard preview image
 * `README.md` → Project documentation
 
 ---
